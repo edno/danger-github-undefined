@@ -1,0 +1,6 @@
+{
+  "name": "danger-github-undefined",
+  "dependencies": {
+    "danger": "^10.6.2"
+  }
+}
